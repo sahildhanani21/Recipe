@@ -18,7 +18,7 @@ A modern **React.js** application that allows users to search and explore delici
 
 - **React.js** (with hooks)
 - **Axios** for API calls
-- **CSS** (based on your setup)
+- **CSS** 
 
 ---
 
